@@ -10,7 +10,7 @@ Rehber işte ne bekliyorsun yamuk yumuk yazıyoruz bir şeyler.
 
 [SSH-Secure-Connection](https://github.com/mehmetsinc/ssh-pass-update)
 
-[İnstall Postgresql 12 and pgBackrest](https://github.com/mehmetsinc/Postgresql-pgBackrest-ansible)
+[Install Postgresql 12 and pgBackrest](https://github.com/mehmetsinc/Postgresql-pgBackrest-ansible)
 
 [PEGA-Ansible (Prometheus-Exporter-Grafana-Alertmanager](https://github.com/mehmetsinc/Ansible-prometheus-node_exporter-alertmanager-grafana)
 
