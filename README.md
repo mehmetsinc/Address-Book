@@ -10,4 +10,4 @@ Rehber işte ne bekliyorsun yamuk yumuk yazıyoruz bir şeyler.
 
 [SSH-Secure-Connection](https://github.com/mehmetsinc/ssh-pass-update)
 
-[İnstalal Postgresql 12 and pgBackrest](hhttps://github.com/mehmetsinc/Postgresql-pgBackrest-ansible)
+[İnstall Postgresql 12 and pgBackrest](https://github.com/mehmetsinc/Postgresql-pgBackrest-ansible)
