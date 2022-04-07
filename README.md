@@ -14,7 +14,7 @@ Rehber işte ne bekliyorsun yamuk yumuk yazıyoruz bir şeyler.
 
 [PEGA-Ansible (Prometheus-Exporter-Grafana-Alertmanager](https://github.com/mehmetsinc/Ansible-prometheus-node_exporter-alertmanager-grafana)
 
-[Çocuğum Nasıl Mobile App](https://github.com/TarikCinar/CocugumNasilMobilApp)
+[KinderGarden Mobile App](https://github.com/TarikCinar/CocugumNasilMobilApp)
 
 [GreenCheck](https://github.com/TarikCinar/GreenCheck)
 
