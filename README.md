@@ -22,6 +22,7 @@ Rehber işte ne bekliyorsun yamuk yumuk yazıyoruz bir şeyler.
 
 [AITUAS](https://github.com/TarikCinar/AITUAS)
 
+[Vmware OpenManage(Dell) integration](https://github.com/mehmetsinc/Vmware-OpenManage-integration)
 
 
 ## Project
