@@ -29,6 +29,6 @@ Rehber işte ne bekliyorsun yamuk yumuk yazıyoruz bir şeyler.
 
 [ssf-infra](https://github.com/TechSpaceAsia/ssf-infrastructure) 02.04.2022 - ...
 
-[chef-ansible](https://github.com/github7450/chef-ansible) 23.06.2022 - ...
+[chef-ansible](https://github.com/github7450/chef-ansible) 23.06.2022 - 25.06.2022
 
 
